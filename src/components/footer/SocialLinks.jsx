@@ -11,17 +11,17 @@ const linkStyles =
 const socialMediaLinks = [
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/ranjana-choudhary-52232022", // Replace with your actual Facebook page URL
+    url: "https://www.linkedin.com/in/abhishekbiradar0/", // Replace with your actual Facebook page URL
     icon: <FaLinkedin />,
   },
   {
     name: "Github",
-    url: "https://github.com/DILEEPKS01/BookMyFit", // Replace with your actual Twitter profile URL
+    url: "https://github.com/abhisb69", // Replace with your actual Twitter profile URL
     icon: <FaGithub />,
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/__d_k_s.__43/", // Replace with your actual Pinterest profile URL
+    url: "https://www.instagram.com", // Replace with your actual Pinterest profile URL
     icon: <FaInstagram />,
   },
   {

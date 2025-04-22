@@ -5,7 +5,7 @@ function Share() {
     <div className="hidden rotate-[270deg] items-center justify-center gap-4 xl:flex">
       <div className="flex gap-4 text-white">
         <a
-          href="https://www.linkedin.com/in/ranjana-choudhary-52232022" 
+          href="https://www.linkedin.com/in/abhishekbiradar0/" 
           target="_blank"
           rel="noopener noreferrer"
           className="transition-colors duration-300 hover:text-red"
@@ -13,7 +13,7 @@ function Share() {
           <FaLinkedin className="h-auto w-7 rotate-90" />
         </a>
         <a
-          href="https://github.com/DILEEPKS01/BookMyFit" 
+          href="https://github.com/abhisb69" 
           target="_blank"
           rel="noopener noreferrer"
           className="transition-colors duration-300 hover:text-red"
@@ -21,7 +21,7 @@ function Share() {
           <FaSquareGithub className="h-auto w-7 rotate-90" />
         </a>
         <a
-          href="https://www.instagram.com/__d_k_s.__43/" 
+          href="https://www.instagram.com" 
           target="_blank"
           rel="noopener noreferrer"
           className="transition-colors duration-300 hover:text-red"
